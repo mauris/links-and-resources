@@ -1,5 +1,5 @@
 # Contributing
-## Because Sharing is Caring :) 
+## Because Sharing is Caring :)
 
 ### How to Contribute
 1. Fork the Repo [how](https://help.github.com/articles/fork-a-repo/)
@@ -18,7 +18,7 @@ Or just any resources you think will be useful for computing students
 * [@chanjunweimy](https://github.com/chanjunweimy)
 * [@dexots](https://github.com/dexots)
 * [@jjingrong](https://github.com/jjingrong)
-* [@mauris](https://github/com/mauris)
+* [@mauris](https://github.com/mauris)
 * [@panpn](https://github.com/panpn)
 * [@quarbby](https://github.com/quarbby)
 * [@spyrant](https://github.com/spyrant)

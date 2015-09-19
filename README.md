@@ -40,7 +40,7 @@ Largely organised by CS Focus Areas
 
 ### Learning to Program
 ##### Learning C
-* **CS1010 Programming Methodology** 
+* **CS1010 Programming Methodology**
   * [Website for AY2015/2016](http://www.comp.nus.edu.sg/~cs1010/)
   * [Jin Zhe's condensed notes](resources/CS1010/CS1010 NOTES.docx)
 * **Learning C in Chinese**
@@ -81,7 +81,7 @@ Largely organised by CS Focus Areas
   * [Course from University of Michigan](https://www.coursera.org/course/pythonlearn)
 * **Python References**
   * [Official Documents](https://www.python.org/doc/)
- 
+
 #### Learning Matlab
 * [Introduction to Matlab, MIT OpenCourseWare 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/)
 * [Introduction to Matlab for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
@@ -100,8 +100,9 @@ Largely organised by CS Focus Areas
   * [Sam's CS1020 Lab Solutions](https://github.com/mauris/CS1020-Labs)
 
 ##### Learning other basics for Programme Requirements
-* **CS2100 Computer Organisation** 
+* **CS2100 Computer Organisation**
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
+  * [Bit Twiddling Hacks by Sean Eron Anderson from Stanford (also usable information in CS2010 and CS2106)](https://graphics.stanford.edu/~seander/bithacks.html)
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
   * [2014/15 Course Page by Lubomir](http://www.comp.nus.edu.sg/~lubomir/)
@@ -109,7 +110,7 @@ Largely organised by CS Focus Areas
 
 
 ### Algorithms and Theory
-* **CS3230 Design and Analysis of Algorithms** 
+* **CS3230 Design and Analysis of Algorithms**
   * [The 2010 Version](http://www.comp.nus.edu.sg/~sanjay/cs3230.html)
   * [MIT Introduction to Algorithms Book. Also the textbook used in CS3230.](http://syedwaqarahmad.webs.com/documents/t._cormen_-_introduction_to_algorithms_3rd_edition.pdf)
   * [MIT Similar Course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
@@ -124,19 +125,19 @@ Largely organised by CS Focus Areas
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
   * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
-  
-### Artificial Intelligence 
+
+### Artificial Intelligence
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [AIMA Code](http://aima.cs.berkeley.edu)
   * [Multi-Agent Planning, Learning, and Coordination Group by the lecturer Bryan Low](http://www.comp.nus.edu.sg/~lowkh/grp.html)
-* **CS3244 Machine Learning** 
-  * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
+* **CS3244 Machine Learning**
+  * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf)
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* **CS5228 Knowledge Discovery and Data Mining** 
+* **CS5228 Knowledge Discovery and Data Mining**
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
   * [Kaggle Competition](https://www.kaggle.com/)
@@ -144,18 +145,18 @@ Largely organised by CS Focus Areas
   * [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
   * [How Do I become a Data Scientist on Quora](https://www.quora.com/How-can-I-become-a-data-scientist)
   * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
-* **CS5340 Uncertainity Modelling in AI** 
+* **CS5340 Uncertainity Modelling in AI**
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
 
-### Computer Networks 
-* **CS2105 Introduction to Computer Networks** 
+### Computer Networks
+* **CS2105 Introduction to Computer Networks**
   * [Course Website by Ooi Wei Tsang](https://blog.nus.edu.sg/cs2105/)
   * [Prof Ooi's Github instructional materials for the blog](https://github.com/weitsang/nus-cs2105)
 * **CS3103 Computer Networks & Protocols**
   * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!82219&authkey=!AJlejDyvdsFd6UI&ithint=folder%2cpdf)
 * **CS4274 Mobile & Multimedia Networking**
   * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!80844&authkey=!ANJzzKYmBlxA-9I&ithint=folder%2cppt)
-  * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) 
+  * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204)
   * [Textbook: Computer Networking A Top Down Approach PDF](http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
 * **CS4344 Networked and Moile Games**
   * [Official home page](http://blog.nus.edu.sg/cs4344/)
@@ -165,7 +166,7 @@ Largely organised by CS Focus Areas
 * **CS2107 Introduction to Security**
   * [Hugh Anderson's slides 2014](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
 
-### Database Systems 
+### Database Systems
 * **CS2102 Database Systems**
   * [Great online course on SQL](http://sqlzoo.net/)
   * [Related course from Stanford](https://www.coursera.org/course/db)
@@ -186,13 +187,13 @@ Largely organised by CS Focus Areas
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
   * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
   * [Sample Project source code](https://github.com/yangshun/cs4243-project)
-* **CS4347 Sound and Music Computing** 
+* **CS4347 Sound and Music Computing**
   * [NUS SMC Lab](http://www.smcnus.org)
-* **CS5240 Theoretical Foundations in Multimedia Computing** 
+* **CS5240 Theoretical Foundations in Multimedia Computing**
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 
 ### Information Retrieval
-* **CS3245 Introduction to Information Retrieval** 
+* **CS3245 Introduction to Information Retrieval**
   * [Course Webpage 2015](http://www.comp.nus.edu.sg/~kanmy/courses/3245_2015/)
   * [Stanford Natural Language Processing Group](http://nlp.stanford.edu)
   * [NLTK Python](http://www.nltk.org)
@@ -202,14 +203,14 @@ Largely organised by CS Focus Areas
   * [Columbia University Topics in Speech Processing: Computational Approaches to Emotional Speech by Julia Hirschberg](http://www.cs.columbia.edu/~julia/courses/CS6998/syllabus11.htm)
 
 ### Parallel Computing
-* **CS3210 Parallel Computing** 
+* **CS3210 Parallel Computing**
   * [Textbook: Parallel Programming for Multicore and Cluster Systems](http://deca.cuc.edu.cn/Community/cfs-filesystemfile.ashx/__key/CommunityServer.Components.PostAttachments/00.00.00.07.59/364204817X-Parallel-Programming-for-Multicore-and-Cluster-Systems.pdf)
   * [Cuda C++ guide](www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
   * [Textbook: Introduction to Parallel Computing, Second Edition](http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
 
-### Software Engineering 
-* **CS2103/T: Software Engineering** 
-  * [Module Website](http://www.comp.nus.edu.sg/~cs2103/) 
+### Software Engineering
+* **CS2103/T: Software Engineering**
+  * [Module Website](http://www.comp.nus.edu.sg/~cs2103/)
   * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
@@ -236,7 +237,7 @@ Largely organised by CS Focus Areas
 * [What you need for Windows 10](http://blogs.msdn.com/b/msgulfcommunity/archive/2015/08/04/what-you-need-to-start-developing-for-windows-10.aspx)
 
 
-### Web Development 
+### Web Development
 
 * **CP3101B Web Programming and Applications**
   * [2015 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
@@ -244,7 +245,7 @@ Largely organised by CS Focus Areas
 * **Learning about web applications**
   * [Course from The University of New Mexico](https://www.coursera.org/course/webapplications)
 
-#### Backend Languages and Frameworks 
+#### Backend Languages and Frameworks
 
 ##### Learning PHP
 * **Some tutorials**
@@ -261,7 +262,7 @@ Largely organised by CS Focus Areas
 * [M Hartl's Rails Tutorial everyone loves](https://www.railstutorial.org/)
 * [One Month Rails](https://onemonth.com/courses/one-month-rails)
 
-#### Frontend Languages and Frameworks 
+#### Frontend Languages and Frameworks
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
@@ -303,62 +304,62 @@ Largely organised by CS Focus Areas
 * [The Coding Interview](http://www.palantir.com/2011/10/the-coding-interview/)
 
 ### Physics and Maths
-* **CS1231 Discrete Structures** 
+* **CS1231 Discrete Structures**
   * [Extra Resources for its first chapter. It is useful for CS2102 also!](https://www.coursera.org/course/maththink)
   * [AY2015/16 Course Website taught by Aaron Tan and Terence Sim](http://www.comp.nus.edu.sg/~cs1231/)
 * **LSM1301 General Biology**
   * [Lecture Notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81451&authkey=!AEr7OnOAscKiJWw&ithint=folder%2cpdf)
-* **MA1521 Calculus for Computing** 
+* **MA1521 Calculus for Computing**
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
   * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
-* **MA1101R Linear Algebra I** 
+* **MA1101R Linear Algebra I**
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
   * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pd)
-* **MA2213 Numerical Analysis** 
+* **MA2213 Numerical Analysis**
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
-* **MA2214 Combinatorics and Graphs I** 
+* **MA2214 Combinatorics and Graphs I**
   * [Textbook (PDF Version)](https://www.dropbox.com/s/q35j3cd68ey13w4/%5BChuan-Chong_C.%2C_Khee-Meng_K.%5D_Principles_and_Tech%28BookZZ.org%29.pdf?dl=0)
 * **ST2334 Probability and Statistics**
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
   * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
-* **ST2132 Mathematical Statistics** 
+* **ST2132 Mathematical Statistics**
   * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
-* **ST2137 Computer Aided Data Analysis** 
+* **ST2137 Computer Aided Data Analysis**
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
-* **PC1221 Fundamentals of Physics I** 
+* **PC1221 Fundamentals of Physics I**
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 * **PC1222 Fundamental of Physics II**
   * [Course Webpage by Prof Ke-Qin Zhang](http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
 
 ### Information Systems Modules
-* **IS1105 Strategic IT Applications** 
+* **IS1105 Strategic IT Applications**
   * [Jin Zhe's condensed notes](resources/IS1105/IS1105 NOTES.docx)
 * **IS2102 Requirements Analysis and Design**
   * [Lecture Notes & Tutorials](https://copy.com/DjlphiAJmCgt)
-* **IS2103 Enterprise Systems Development Concepts** 
-  * [Lecture Notes](https://copy.com/8mEW6iguhwTjHyy0) 
+* **IS2103 Enterprise Systems Development Concepts**
+  * [Lecture Notes](https://copy.com/8mEW6iguhwTjHyy0)
 
-### Other NUS Modules 
+### Other NUS Modules
 
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
-* **GEK1508 Einstein's Universe & Quantum Weirdness** 
+* **GEK1508 Einstein's Universe & Quantum Weirdness**
    * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
-* **GEK1509 Introduction To The Nanoworld** 
+* **GEK1509 Introduction To The Nanoworld**
    * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
-* **GEK1520/ PC1322 Understanding the Universe** 
+* **GEK1520/ PC1322 Understanding the Universe**
    * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
-* **GEM2901 Reporting Statistics in the Media** 
-  * [A Dropbox Resource](https://www.dropbox.com/sh/nmpucx6vnr2da1t/AADtjPNDTFiEFGcylXlg9lKLa?dl=0) 
+* **GEM2901 Reporting Statistics in the Media**
+  * [A Dropbox Resource](https://www.dropbox.com/sh/nmpucx6vnr2da1t/AADtjPNDTFiEFGcylXlg9lKLa?dl=0)
 
-* **GEK1527 (or LSM1302) Genes and Society** 
-  * [A Dropbox Resource](https://www.dropbox.com/sh/7rddvf30lqy075x/AADIxfqJ5qaiCbP2Zuoa_9XEa?dl=0) 
-* **GEK1521 Physics In the Life Sciences** 
-  * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php) 
+* **GEK1527 (or LSM1302) Genes and Society**
+  * [A Dropbox Resource](https://www.dropbox.com/sh/7rddvf30lqy075x/AADIxfqJ5qaiCbP2Zuoa_9XEa?dl=0)
+* **GEK1521 Physics In the Life Sciences**
+  * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php)
   * [Course from McGill](http://www.physics.mcgill.ca/~moore/P101/Lectures/)
 
 #### Singapore Studies modules
